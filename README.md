@@ -14,6 +14,8 @@ tests, CI and repeatable releases.
 shortcut of the app you're using. A native macOS app in Swift (AppKit + SwiftUI) that reads the
 menu bar through the macOS Accessibility API.
 
+<a href="https://github.com/MHusted01/shortcutlens"><img src="https://github.com/MHusted01/shortcutlens/raw/main/docs/images/demo.gif" width="640" alt="ShortcutLens demo: holding Command shows the shortcut overlay over TextEdit"></a>
+
 - Privacy by design: no network code at all, enforced by a CI check on every pull request
 - Swift 6 with strict concurrency, 560+ tests and an 80% coverage gate
 - Tag-driven releases with checksums, distributed through a Homebrew tap
@@ -30,7 +32,7 @@ brew install --cask mhusted01/tap/shortcutlens
 
 #### Tools
 
-Swift · SwiftUI · AppKit · TypeScript · React Native · C# / .NET · Java · Python · GitHub Actions
+<img src="https://skillicons.dev/icons?i=swift,ts,react,cs,dotnet,java,py,githubactions,supabase,firebase&perline=10" alt="Swift, TypeScript, React Native, C#, .NET, Java, Python, GitHub Actions, Supabase, Firebase">
 
 #### Contact
 
