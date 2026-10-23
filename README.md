@@ -31,3 +31,7 @@ brew install --cask mhusted01/tap/shortcutlens
 #### Tools
 
 Swift · SwiftUI · AppKit · TypeScript · React Native · C# / .NET · Java · Python · GitHub Actions
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/marcus-husted-70683a443)
