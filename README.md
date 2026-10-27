@@ -2,9 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marcus-husted-70683a443"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://tryhackme.com/p/marcusaj.husted"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile"></a>
-  <a href="https://profile.hackthebox.com/profile/01a07f2f-2a89-704f-b80d-5c358377b8f7"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box profile"></a>
-</p>
+ 
 
 I'm a developer with an AP Degree in Computer Science (Datamatiker), now studying for a
 Professional Bachelor in IT Security. I like building small, focused tools and care about
